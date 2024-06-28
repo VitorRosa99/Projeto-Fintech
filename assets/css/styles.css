@@ -1,0 +1,30 @@
+.marca{
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    }
+    
+:root{
+    --color-marca: #00DFB7
+}
+.navbar{
+    background-color: var(--color-marca);
+}
+.btn-primary{
+    background-color: var(--color-marca)
+}
+body{
+    background-color: antiquewhite
+    ;
+}   
+h5{
+    -webkit-text-stroke-color: black;;
+    -webkit-text-stroke-width: thin;
+    color: black;
+}
+p{
+    -webkit-text-stroke-color: black;;
+    -webkit-text-stroke-width: thin;
+    color: black;
+}
